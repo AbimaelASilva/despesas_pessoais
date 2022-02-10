@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "664289068435",
+    "project_id": "despesas-pessoais-3dd02",
+    "storage_bucket": "despesas-pessoais-3dd02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664289068435:android:c160f3e556b400d1211466",
+        "android_client_info": {
+          "package_name": "com.housedevs.despesas_pessoais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664289068435-m8ki1314lathiovn14e4ovqesplcesvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.housedevs.despesas_pessoais",
+            "certificate_hash": "4b87fe1ec1e91c331fb8b95503c897149c6977c2"
+          }
+        },
+        {
+          "client_id": "664289068435-mlhg23sbt11dj3nue2c7fce0oa1969fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAOHZEQ3d_d-JyjkdlffEJPoRDGDnoceU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664289068435-mlhg23sbt11dj3nue2c7fce0oa1969fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\Abimael\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4F:B0:93:D3:C4:16:B3:9B:19:70:DC:31:15:50:E6:3C
+SHA1: 4B:87:FE:1E:C1:E9:1C:33:1F:B8:B9:55:03:C8:97:14:9C:69:77:C2
+SHA-256: 68:B6:C9:9A:7B:8E:7C:2C:52:7D:5B:6B:EE:8B:6D:56:CB:A3:2F:FF:54:4C:3F:BA:A8:B6:84:03:57:CA:70:32
+Valid until: Quinta-feira, 3 de Agosto de 2051
